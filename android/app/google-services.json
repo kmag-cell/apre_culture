@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109108449888",
+    "project_id": "apre-culture",
+    "storage_bucket": "apre-culture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109108449888:android:b6194f16fe69d6a6602905",
+        "android_client_info": {
+          "package_name": "com.example.apre_culture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109108449888-f33p7cgjlsifabb3ngf4nljjutcmesbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn5-rvl5qJiddeuwkHK6Nf6t4WCvOynbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109108449888-f33p7cgjlsifabb3ngf4nljjutcmesbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
